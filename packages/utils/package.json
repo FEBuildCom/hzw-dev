@@ -1,0 +1,25 @@
+{
+  "name": "@hzw-dev/utils",
+  "version": "1.0.0",
+  "description": "hzw-dev cli utils",
+  "keywords": [
+    "utils",
+    "js"
+  ],
+  "author": "qianzw <1870271825@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testinng from utils\""
+  },
+  "dependencies": {
+  }
+}

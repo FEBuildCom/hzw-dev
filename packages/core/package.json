@@ -1,0 +1,26 @@
+{
+  "name": "@hzw-dev/core",
+  "version": "1.0.0",
+  "description": "hzw-dev core",
+  "keywords": [
+    "js",
+    "cli"
+  ],
+  "author": "qianzw <1870271825@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from core \""
+  },
+  "dependencies": {
+    "@hzw-dev/utils": "^1.0.0"
+  }
+}
