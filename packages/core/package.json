@@ -9,6 +9,9 @@
   "author": "qianzw <1870271825@qq.com>",
   "homepage": "",
   "license": "MIT",
+  "bin": {
+    "hzw-dev": "bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
@@ -23,5 +26,5 @@
   "dependencies": {
     "@hzw-dev/utils": "^1.0.2"
   },
-  "gitHead": "3baa594583fd78fc812c5ead5c83ef31ef3e3f33"
+  "gitHead": "d61bf3bce883e1a28df36c1f29b9aaccccdafd65"
 }
