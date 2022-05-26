@@ -1,6 +1,6 @@
 {
   "name": "@hzw-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "hzw-dev core",
   "keywords": [
     "js",
@@ -24,7 +24,7 @@
     "test": "echo \"Run testing from core \""
   },
   "dependencies": {
-    "@hzw-dev/utils": "^1.0.2"
+    "@hzw-dev/utils": "^1.0.3"
   },
   "gitHead": "d61bf3bce883e1a28df36c1f29b9aaccccdafd65"
 }
