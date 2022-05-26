@@ -1,6 +1,6 @@
 {
   "name": "@hzw-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hzw-dev core",
   "keywords": [
     "js",
@@ -21,6 +21,6 @@
     "test": "echo \"Run testing from core \""
   },
   "dependencies": {
-    "@hzw-dev/utils": "^1.0.0"
+    "@hzw-dev/utils": "^1.0.1"
   }
 }

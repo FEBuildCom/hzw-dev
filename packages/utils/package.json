@@ -1,6 +1,6 @@
 {
   "name": "@hzw-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hzw-dev cli utils",
   "keywords": [
     "utils",
@@ -19,7 +19,5 @@
   ],
   "scripts": {
     "test": "echo \"Run testinng from utils\""
-  },
-  "dependencies": {
   }
 }
